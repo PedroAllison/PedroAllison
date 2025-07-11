@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Student of Systems Analysis and Development<br>- JavaScript Developer<br>- DevOps</p>
+<p align="left">- Student of Systems Analysis and Development<br>- JavaScript Developer<br>- Node.js</p>
 
 ###
 
