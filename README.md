@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Student of Systems Analysis and Development<br>- JavaScript Developer<br>- Node.js</p>
+<p align="left">- Systems Analysis <br>- JavaScript Developer<br>-React Native  <br> -Mobile: Android | IoS <br> -Node.js</p>
 
 ###
 
