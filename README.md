@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Systems Analysis <br>- JavaScript Developer<br>- React Native  <br>- Mobile: Android | IoS <br>- Node.js</p>
+<p align="left">- System Analyts <br>- JavaScript Developer<br>- React Native  <br>- Mobile: Android | IoS <br>- Node.js</p>
 
 ###
 
